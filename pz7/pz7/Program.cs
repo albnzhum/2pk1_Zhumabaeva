@@ -15,12 +15,18 @@ namespace Pz_7
 
             }
 
+            int count = 0;
+
             for (int i = 0; i < 10; i++)
             {
                 if (array[i] == array[i + 1])
                 {
-                    Console.WriteLine("есть"); //помогите пожалуйста у меня здесь ошибка а я не понимаю почему
+                    count++;
+                    Console.WriteLine($"есть {count}");
+
+                     break;//помогите пожалуйста у меня здесь ошибка а я не понимаю почему
                 }
+               
 
             }
 
