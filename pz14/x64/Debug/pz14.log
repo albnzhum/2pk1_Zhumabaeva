@@ -1,0 +1,4 @@
+﻿  pz14.cpp
+C:\Users\MSI\source\repos\pz14\pz14.cpp(85,30): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\MSI\source\repos\pz14\pz14.cpp(99): warning C4715: Palindrom: значение возвращается не при всех путях выполнения
+  pz14.vcxproj -> C:\Users\MSI\source\repos\pz14\x64\Debug\pz14.exe
