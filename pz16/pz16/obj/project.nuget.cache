@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Lk2doABR1zIRmRWj6P2moAr9xzxR0fZu+ohJT2bna/wvArYfbYBtAZu3qmy+4ShmcwWiZDLjMk8/i0f63FQj1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MSI\\source\\repos\\github\\pz16\\pz16\\pz16.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MSI\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
