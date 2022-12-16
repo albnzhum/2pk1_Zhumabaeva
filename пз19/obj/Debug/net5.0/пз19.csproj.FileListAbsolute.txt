@@ -1,0 +1,16 @@
+C:\Users\MSI\source\repos\пз19\bin\Debug\net5.0\пз19.exe
+C:\Users\MSI\source\repos\пз19\bin\Debug\net5.0\пз19.deps.json
+C:\Users\MSI\source\repos\пз19\bin\Debug\net5.0\пз19.runtimeconfig.json
+C:\Users\MSI\source\repos\пз19\bin\Debug\net5.0\пз19.runtimeconfig.dev.json
+C:\Users\MSI\source\repos\пз19\bin\Debug\net5.0\пз19.dll
+C:\Users\MSI\source\repos\пз19\bin\Debug\net5.0\пз19.pdb
+C:\Users\MSI\source\repos\пз19\obj\Debug\net5.0\пз19.csproj.AssemblyReference.cache
+C:\Users\MSI\source\repos\пз19\obj\Debug\net5.0\пз19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\source\repos\пз19\obj\Debug\net5.0\пз19.AssemblyInfoInputs.cache
+C:\Users\MSI\source\repos\пз19\obj\Debug\net5.0\пз19.AssemblyInfo.cs
+C:\Users\MSI\source\repos\пз19\obj\Debug\net5.0\пз19.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\пз19\obj\Debug\net5.0\пз19.dll
+C:\Users\MSI\source\repos\пз19\obj\Debug\net5.0\refint\пз19.dll
+C:\Users\MSI\source\repos\пз19\obj\Debug\net5.0\пз19.pdb
+C:\Users\MSI\source\repos\пз19\obj\Debug\net5.0\пз19.genruntimeconfig.cache
+C:\Users\MSI\source\repos\пз19\obj\Debug\net5.0\ref\пз19.dll
